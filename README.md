@@ -8,4 +8,4 @@ It's the very first static web page project when I learned the basics of HTML5 a
 これは私の最初のウェブ・プロジェクトです。HTML5とCSS3を勉強始めて一か月の時に作りました。
 * 日付：令和2年7月25日
 * 内容：旅行先の情報を集めたページ。（スウェーデン、オランダ、フランス、日本）
-コメント：media queryとJavaScriptなし。HTMLタグとCSSしか使えなかったです。（iframe, transition, mapタグなど）
+* コメント：media queryとJavaScriptなし。HTMLタグとCSSしか使えなかったです。（iframe, transition, mapタグなど）
